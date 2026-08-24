@@ -1,110 +1,104 @@
 {
   "hse-high-proba": {
     "url": "https://olymp.hse.ru/mmo/",
-    "hash": "d6e55bdbe590b5a20befc5889a383cbd",
-    "checked_at": "2026-08-17T09:29:39.035584",
+    "hash": "fe3f65733d6feabe6c2c36c487c39ac0",
+    "checked_at": "2026-08-24T09:35:23.037469",
     "status": 200
   },
   "vso-pravo": {
     "url": "https://rsr-olymp.ru/",
-    "hash": "989e59dca71b774d9effb106da89a907",
-    "checked_at": "2026-08-17T09:29:43.486040",
+    "hash": "f08b0407e9a84716b9d2c0b08e98dff0",
+    "checked_at": "2026-08-24T09:35:28.422078",
     "status": 200
   },
   "lomonosov": {
     "url": "https://olymp.msu.ru",
     "hash": "d512f6932b0839e9871a0d6a68856ec0",
-    "checked_at": "2026-08-17T09:29:44.238915",
-    "status": 200
-  },
-  "spbu": {
-    "url": "https://www.olympiada.spbu.ru/",
-    "hash": "6a9889dadfdadbd49ba4b04f2b3e3f4a",
-    "checked_at": "2026-08-17T09:29:46.451012",
+    "checked_at": "2026-08-24T09:35:29.123578",
     "status": 200
   },
   "kutafin": {
     "url": "https://msal.ru/content/abiturientam/olimpiady-i-konkursy/kutafinskaya-olimpiada-shkolnikov-po-pravu/",
     "hash": "d70a7235a22a08a438859fcc3c726b25",
-    "checked_at": "2026-08-17T09:29:48.621866",
+    "checked_at": "2026-08-24T09:35:33.316860",
     "status": 200
   },
   "femida": {
     "url": "https://olymp.rgup.ru/",
     "hash": "79103854c82a224174624fbc1671a29c",
-    "checked_at": "2026-08-17T09:29:49.934926",
+    "checked_at": "2026-08-24T09:35:34.627842",
     "status": 200
   },
   "v-mir-prava": {
     "url": "https://olimp.rpa-mu.ru/",
-    "hash": "9dc5b4ca3753a602f270a662b8b01ccd",
-    "checked_at": "2026-08-17T09:29:52.800229",
+    "hash": "b86b7c6e56b97c9da8597ba150a3df70",
+    "checked_at": "2026-08-24T09:35:36.408698",
     "status": 200
   },
   "tolstovsky": {
     "url": "https://olymp.tsput.ru/",
-    "hash": "38bc3966aed0c352c0637e85a53d7ae6",
-    "checked_at": "2026-08-17T09:29:54.055566",
+    "hash": "305ae9571847794c9ef0a0ce03b57a25",
+    "checked_at": "2026-08-24T09:35:37.784902",
     "status": 200
   },
   "mission": {
     "url": "https://www.fa.ru/for-applicants/olympiads/mission/",
-    "hash": "8176e5b88ebd891637c66a0eecde4727",
-    "checked_at": "2026-08-17T09:29:56.169764",
+    "hash": "3ae407678174ad4ff365952da3dc713f",
+    "checked_at": "2026-08-24T09:35:39.310629",
     "status": 200
   },
   "ranepa": {
     "url": "https://www.ranepa.ru/olymp/",
-    "hash": "92a0aef9423a29fd46fb68e10559808c",
-    "checked_at": "2026-08-17T09:30:28.307039",
+    "hash": "9e45ae11ec9df62e8ce16b927a0eae0e",
+    "checked_at": "2026-08-24T09:36:02.248535",
     "status": 200
   },
   "mgimo": {
     "url": "https://olymp.mgimo.ru",
     "hash": "78481f28f091a6b5627ff73044fe98c5",
-    "checked_at": "2026-08-17T09:30:29.051944",
+    "checked_at": "2026-08-24T09:36:03.058924",
     "status": 200
   },
   "uriyu": {
     "url": "https://usla.ru/",
     "hash": "ee768bb7394a70f8555b0e8efd43633c",
-    "checked_at": "2026-08-17T09:30:32.043175",
+    "checked_at": "2026-08-24T09:36:04.451586",
     "status": 202
   },
   "mosh": {
     "url": "https://мош.цпм.рф",
-    "hash": "79db5054011ec2d5cfe44857ba144970",
-    "checked_at": "2026-08-17T09:30:33.124769",
+    "hash": "d80611c9fa5de423e1911dc7bbe657f0",
+    "checked_at": "2026-08-24T09:36:05.712248",
     "status": 200
   },
   "pokori-vorobevy": {
     "url": "https://pvg.mk.ru",
-    "hash": "eac2d0f15b39ebd56469e6c4fabc34a7",
-    "checked_at": "2026-08-17T09:30:34.466950",
+    "hash": "56cb36153faeea16265454ed2fac9ce8",
+    "checked_at": "2026-08-24T09:36:06.785916",
     "status": 200
   },
   "vsesibirskaya": {
     "url": "https://rsr-olymp.ru/",
-    "hash": "989e59dca71b774d9effb106da89a907",
-    "checked_at": "2026-08-17T09:30:38.928832",
+    "hash": "f08b0407e9a84716b9d2c0b08e98dff0",
+    "checked_at": "2026-08-24T09:36:11.294456",
     "status": 200
   },
   "izumrud": {
     "url": "https://urfu.ru/",
-    "hash": "7aaa18fe06baa80a61e89059877cbeda",
-    "checked_at": "2026-08-17T09:30:41.457689",
+    "hash": "b079072902181ca0786d1fd9801990b3",
+    "checked_at": "2026-08-24T09:36:12.711621",
     "status": 200
   },
   "ormo": {
     "url": "https://www.unn.ru/",
-    "hash": "5d9e7d38a0ddf9930a42ec7a9f67159f",
-    "checked_at": "2026-08-17T09:30:45.524982",
+    "hash": "a99f524e36f8bca2f98fe00f89d4bd89",
+    "checked_at": "2026-08-24T09:36:16.356630",
     "status": 200
   },
   "okean-znany": {
     "url": "https://www.dvfu.ru/",
-    "hash": "6bc499eb8cc10978d6409141e4250b90",
-    "checked_at": "2026-08-17T09:30:47.442720",
+    "hash": "d21517ef688e3b8ea5f819cc4a278326",
+    "checked_at": "2026-08-24T09:36:18.158153",
     "status": 200
   }
 }
